@@ -1,0 +1,1957 @@
+{
+    "categories": [
+        {
+            "category": {
+                "name": "Norway",
+                "slug": "norway",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 5,
+                "flag": "norway",
+                "alpha2": "NO"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                21931
+            ],
+            "teamIds": [
+                256506,
+                295469
+            ]
+        },
+        {
+            "category": {
+                "name": "France",
+                "slug": "france",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 6,
+                "id": 7,
+                "flag": "france",
+                "alpha2": "FR"
+            },
+            "totalEvents": 1,
+            "totalVideos": 1,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                183
+            ],
+            "teamIds": [
+                39126,
+                1665
+            ]
+        },
+        {
+            "category": {
+                "name": "Iceland",
+                "slug": "iceland",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 10,
+                "flag": "iceland",
+                "alpha2": "IS"
+            },
+            "totalEvents": 2,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                13332,
+                2056
+            ],
+            "teamIds": [
+                37184,
+                41099,
+                221305,
+                48019
+            ]
+        },
+        {
+            "category": {
+                "name": "Mexico",
+                "slug": "mexico",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 12,
+                "flag": "mexico",
+                "alpha2": "MX"
+            },
+            "totalEvents": 2,
+            "totalVideos": 1,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                11612,
+                13592
+            ],
+            "teamIds": [
+                201623,
+                274432,
+                321814,
+                53121
+            ]
+        },
+        {
+            "category": {
+                "name": "Brazil",
+                "slug": "brazil",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 13,
+                "flag": "brazil",
+                "alpha2": "BR"
+            },
+            "totalEvents": 6,
+            "totalVideos": 1,
+            "totalEventPlayerStatistics": 3,
+            "uniqueTournamentIds": [
+                10257,
+                13668,
+                21998,
+                379,
+                381
+            ],
+            "teamIds": [
+                248722,
+                319567,
+                368297,
+                506798,
+                7297,
+                7314,
+                21865,
+                223182,
+                260064,
+                274036,
+                312546,
+                506797
+            ]
+        },
+        {
+            "category": {
+                "name": "Finland",
+                "slug": "finland",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 19,
+                "flag": "finland",
+                "alpha2": "FI"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "teamIds": [
+                511733,
+                481619
+            ]
+        },
+        {
+            "category": {
+                "name": "USA",
+                "slug": "usa",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 26,
+                "flag": "usa",
+                "alpha2": "US"
+            },
+            "totalEvents": 1,
+            "totalVideos": 1,
+            "totalEventPlayerStatistics": 1,
+            "uniqueTournamentIds": [
+                18641
+            ],
+            "teamIds": [
+                197062,
+                411369
+            ]
+        },
+        {
+            "category": {
+                "name": "Germany",
+                "slug": "germany",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 8,
+                "id": 30,
+                "flag": "germany",
+                "alpha2": "DE"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 1,
+            "uniqueTournamentIds": [
+                232
+            ],
+            "teamIds": [
+                108685,
+                36656
+            ]
+        },
+        {
+            "category": {
+                "name": "Italy",
+                "slug": "italy",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 7,
+                "id": 31,
+                "flag": "italy",
+                "alpha2": "IT"
+            },
+            "totalEvents": 1,
+            "totalVideos": 1,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                11446
+            ],
+            "teamIds": [
+                2718,
+                53857
+            ]
+        },
+        {
+            "category": {
+                "name": "Spain",
+                "slug": "spain",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 9,
+                "id": 32,
+                "flag": "spain",
+                "alpha2": "ES"
+            },
+            "totalEvents": 1,
+            "totalVideos": 1,
+            "totalEventPlayerStatistics": 1,
+            "uniqueTournamentIds": [
+                54
+            ],
+            "teamIds": [
+                2848,
+                2843
+            ]
+        },
+        {
+            "category": {
+                "name": "Belgium",
+                "slug": "belgium",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 33,
+                "flag": "belgium",
+                "alpha2": "BE"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                1117
+            ],
+            "teamIds": [
+                111781,
+                486978
+            ]
+        },
+        {
+            "category": {
+                "name": "Australia",
+                "slug": "australia",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 34,
+                "flag": "australia",
+                "alpha2": "AU"
+            },
+            "totalEvents": 3,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                20161
+            ],
+            "teamIds": [
+                189494,
+                353493,
+                379036,
+                142728,
+                311483,
+                382214
+            ]
+        },
+        {
+            "category": {
+                "name": "Argentina",
+                "slug": "argentina",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 48,
+                "flag": "argentina",
+                "alpha2": "AR"
+            },
+            "totalEvents": 13,
+            "totalVideos": 9,
+            "totalEventPlayerStatistics": 5,
+            "uniqueTournamentIds": [
+                1024,
+                10495,
+                1347,
+                14090,
+                22012,
+                703
+            ],
+            "teamIds": [
+                112491,
+                112495,
+                112509,
+                224646,
+                3214,
+                36837,
+                36841,
+                43740,
+                460684,
+                507163,
+                53799,
+                6074,
+                65664,
+                188441,
+                192841,
+                23950,
+                257686,
+                264858,
+                269780,
+                273657,
+                3200,
+                3222,
+                36834,
+                507165,
+                7772,
+                93105
+            ]
+        },
+        {
+            "category": {
+                "name": "Chile",
+                "slug": "chile",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 49,
+                "flag": "chile",
+                "alpha2": "CL"
+            },
+            "totalEvents": 1,
+            "totalVideos": 1,
+            "totalEventPlayerStatistics": 1,
+            "uniqueTournamentIds": [
+                11653
+            ],
+            "teamIds": [
+                3161,
+                3167
+            ]
+        },
+        {
+            "category": {
+                "name": "Ireland",
+                "slug": "ireland",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 51,
+                "flag": "ireland",
+                "alpha2": "IE"
+            },
+            "totalEvents": 1,
+            "totalVideos": 1,
+            "totalEventPlayerStatistics": 1,
+            "uniqueTournamentIds": [
+                193
+            ],
+            "teamIds": [
+                3171,
+                3175
+            ]
+        },
+        {
+            "category": {
+                "name": "Uruguay",
+                "slug": "uruguay",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 57,
+                "flag": "uruguay",
+                "alpha2": "UY"
+            },
+            "totalEvents": 4,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                21284,
+                278
+            ],
+            "teamIds": [
+                195805,
+                195806,
+                3229,
+                341902,
+                195801,
+                196042,
+                196382,
+                3228
+            ]
+        },
+        {
+            "category": {
+                "name": "Israel",
+                "slug": "israel",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 66,
+                "flag": "israel",
+                "alpha2": "IL"
+            },
+            "totalEvents": 3,
+            "totalVideos": 3,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                727
+            ],
+            "teamIds": [
+                34525,
+                7380,
+                7478,
+                39526,
+                451504,
+                5200
+            ]
+        },
+        {
+            "category": {
+                "name": "Greece",
+                "slug": "greece",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 67,
+                "flag": "greece",
+                "alpha2": "GR"
+            },
+            "totalEvents": 4,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                186
+            ],
+            "teamIds": [
+                120218,
+                3244,
+                6991,
+                6997,
+                3255,
+                395729,
+                395730,
+                395731
+            ]
+        },
+        {
+            "category": {
+                "name": "China",
+                "slug": "china",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 99,
+                "flag": "china",
+                "alpha2": "CN"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 1,
+            "uniqueTournamentIds": [
+                782
+            ],
+            "teamIds": [
+                508366,
+                24156
+            ]
+        },
+        {
+            "category": {
+                "name": "Cyprus",
+                "slug": "cyprus",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 102,
+                "flag": "cyprus",
+                "alpha2": "CY"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                22372
+            ],
+            "teamIds": [
+                516763,
+                516767
+            ]
+        },
+        {
+            "category": {
+                "name": "Germany Amateur",
+                "slug": "germany-amateur",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 122,
+                "flag": "germany",
+                "alpha2": "DE"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                1085
+            ],
+            "teamIds": [
+                5791,
+                5050
+            ]
+        },
+        {
+            "category": {
+                "name": "Northern Ireland",
+                "slug": "northern-ireland",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 130,
+                "flag": "northern-ireland",
+                "alpha2": "NX"
+            },
+            "totalEvents": 4,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                200
+            ],
+            "teamIds": [
+                221524,
+                274330,
+                338266,
+                5181,
+                295398,
+                306340,
+                327764,
+                5184
+            ]
+        },
+        {
+            "category": {
+                "name": "Wales",
+                "slug": "wales",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 131,
+                "flag": "wales",
+                "alpha2": "WA"
+            },
+            "totalEvents": 3,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                13820,
+                13821
+            ],
+            "teamIds": [
+                26235,
+                44706,
+                235486,
+                37084
+            ]
+        },
+        {
+            "category": {
+                "name": "Ecuador",
+                "slug": "ecuador",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 165,
+                "flag": "ecuador",
+                "alpha2": "EC"
+            },
+            "totalEvents": 1,
+            "totalVideos": 1,
+            "totalEventPlayerStatistics": 1,
+            "uniqueTournamentIds": [
+                240
+            ],
+            "teamIds": [
+                213638,
+                394127
+            ]
+        },
+        {
+            "category": {
+                "name": "England Amateur",
+                "slug": "england-amateur",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 252,
+                "flag": "england",
+                "alpha2": "EN"
+            },
+            "totalEvents": 3,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                13946,
+                174
+            ],
+            "teamIds": [
+                227547,
+                251,
+                261910,
+                198,
+                281397,
+                54369
+            ]
+        },
+        {
+            "category": {
+                "name": "Colombia",
+                "slug": "colombia",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 274,
+                "flag": "colombia",
+                "alpha2": "CO"
+            },
+            "totalEvents": 5,
+            "totalVideos": 5,
+            "totalEventPlayerStatistics": 5,
+            "uniqueTournamentIds": [
+                11539,
+                1238
+            ],
+            "teamIds": [
+                213490,
+                48244,
+                6118,
+                89366,
+                89376,
+                39866,
+                504899,
+                6116,
+                89362,
+                89372
+            ]
+        },
+        {
+            "category": {
+                "name": "Venezuela",
+                "slug": "venezuela",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 281,
+                "flag": "venezuela",
+                "alpha2": "VE"
+            },
+            "totalEvents": 2,
+            "totalVideos": 2,
+            "totalEventPlayerStatistics": 2,
+            "uniqueTournamentIds": [
+                231
+            ],
+            "teamIds": [
+                263715,
+                281675,
+                230725,
+                6231
+            ]
+        },
+        {
+            "category": {
+                "name": "Costa Rica",
+                "slug": "costa-rica",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 289,
+                "flag": "costa-rica",
+                "alpha2": "CR"
+            },
+            "totalEvents": 2,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                11542,
+                11672
+            ],
+            "teamIds": [
+                268869,
+                6575,
+                262326,
+                6572
+            ]
+        },
+        {
+            "category": {
+                "name": "South Korea",
+                "slug": "south-korea",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 291,
+                "flag": "south-korea",
+                "alpha2": "KR"
+            },
+            "totalEvents": 4,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                2284
+            ],
+            "teamIds": [
+                168128,
+                191934,
+                251305,
+                284610,
+                191916,
+                191917,
+                191933,
+                191935
+            ]
+        },
+        {
+            "category": {
+                "name": "Azerbaijan",
+                "slug": "azerbaijan",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 297,
+                "flag": "azerbaijan",
+                "alpha2": "AZ"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                21050
+            ],
+            "teamIds": [
+                498732,
+                466039
+            ]
+        },
+        {
+            "category": {
+                "name": "United Arab Emirates",
+                "slug": "united-arab-emirates",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 299,
+                "flag": "united-arab-emirates",
+                "alpha2": "AE"
+            },
+            "totalEvents": 2,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "teamIds": [
+                337674,
+                503899,
+                245718,
+                502960
+            ]
+        },
+        {
+            "category": {
+                "name": "Morocco",
+                "slug": "morocco",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 303,
+                "flag": "morocco",
+                "alpha2": "MA"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                1434
+            ],
+            "teamIds": [
+                327828,
+                55027
+            ]
+        },
+        {
+            "category": {
+                "name": "Algeria",
+                "slug": "algeria",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 304,
+                "flag": "algeria",
+                "alpha2": "DZ"
+            },
+            "totalEvents": 2,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                841
+            ],
+            "teamIds": [
+                212197,
+                79565,
+                133444,
+                42204
+            ]
+        },
+        {
+            "category": {
+                "name": "Saudi Arabia",
+                "slug": "saudi-arabia",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 310,
+                "flag": "saudi-arabia",
+                "alpha2": "SA"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "teamIds": [
+                511737,
+                511738
+            ]
+        },
+        {
+            "category": {
+                "name": "India",
+                "slug": "india",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 352,
+                "flag": "india",
+                "alpha2": "IN"
+            },
+            "totalEvents": 4,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "teamIds": [
+                299435,
+                379906,
+                503356,
+                503549,
+                270680,
+                304945,
+                380313,
+                510621
+            ]
+        },
+        {
+            "category": {
+                "name": "Qatar",
+                "slug": "qatar",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 353,
+                "flag": "qatar",
+                "alpha2": "QA"
+            },
+            "totalEvents": 3,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "teamIds": [
+                307595,
+                71072,
+                71080,
+                406892,
+                491552,
+                71082
+            ]
+        },
+        {
+            "category": {
+                "name": "Guatemala",
+                "slug": "guatemala",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 365,
+                "flag": "guatemala",
+                "alpha2": "GT"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "teamIds": [
+                463192,
+                111283
+            ]
+        },
+        {
+            "category": {
+                "name": "Uzbekistan",
+                "slug": "uzbekistan",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 385,
+                "flag": "uzbekistan",
+                "alpha2": "UZ"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "teamIds": [
+                287706,
+                289516
+            ]
+        },
+        {
+            "category": {
+                "name": "Cameroon",
+                "slug": "cameroon",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 391,
+                "flag": "cameroon",
+                "alpha2": "CM"
+            },
+            "totalEvents": 2,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                1006
+            ],
+            "teamIds": [
+                247069,
+                62234,
+                371277,
+                42575
+            ]
+        },
+        {
+            "category": {
+                "name": "Spain Amateur",
+                "slug": "spain-amateur",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 421,
+                "flag": "spain",
+                "alpha2": "ES"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                11351
+            ],
+            "teamIds": [
+                229621,
+                447097
+            ]
+        },
+        {
+            "category": {
+                "name": "Jamaica",
+                "slug": "jamaica",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 502,
+                "flag": "jamaica",
+                "alpha2": "JM"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                1892
+            ],
+            "teamIds": [
+                173722,
+                496047
+            ]
+        },
+        {
+            "category": {
+                "name": "Ghana",
+                "slug": "ghana",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 542,
+                "flag": "ghana",
+                "alpha2": "GH"
+            },
+            "totalEvents": 17,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                1191,
+                21782,
+                22077,
+                22168
+            ],
+            "teamIds": [
+                385020,
+                42613,
+                502453,
+                502458,
+                502477,
+                502491,
+                502938,
+                502939,
+                502941,
+                502943,
+                508752,
+                511527,
+                511528,
+                511537,
+                511540,
+                511541,
+                81955,
+                396191,
+                396192,
+                502454,
+                502455,
+                502456,
+                502474,
+                502475,
+                502686,
+                502940,
+                502942,
+                508745,
+                511525,
+                511526,
+                511529,
+                511536,
+                511539,
+                511547
+            ]
+        },
+        {
+            "category": {
+                "name": "Antigua and Barbuda",
+                "slug": "antigua-and-barbuda",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 1085,
+                "flag": "antigua-and-barbuda",
+                "alpha2": "AG"
+            },
+            "totalEvents": 2,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                19790
+            ],
+            "teamIds": [
+                306496,
+                459374,
+                459375,
+                500239
+            ]
+        },
+        {
+            "category": {
+                "name": "Aruba",
+                "slug": "aruba",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 1086,
+                "flag": "aruba",
+                "alpha2": "AW"
+            },
+            "totalEvents": 2,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                19345
+            ],
+            "teamIds": [
+                451278,
+                497285,
+                451279,
+                497289
+            ]
+        },
+        {
+            "category": {
+                "name": "Barbados",
+                "slug": "barbados",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 1089,
+                "flag": "barbados",
+                "alpha2": "BB"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                20208
+            ],
+            "teamIds": [
+                248657,
+                253368
+            ]
+        },
+        {
+            "category": {
+                "name": "Chad",
+                "slug": "chad",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 1096,
+                "flag": "chad",
+                "alpha2": "TD"
+            },
+            "totalEvents": 3,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                22107
+            ],
+            "teamIds": [
+                514705,
+                514713,
+                514715,
+                514707,
+                514709,
+                514714
+            ]
+        },
+        {
+            "category": {
+                "name": "Ethiopia",
+                "slug": "ethiopia",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 1102,
+                "flag": "ethiopia",
+                "alpha2": "ET"
+            },
+            "totalEvents": 2,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                22580
+            ],
+            "teamIds": [
+                521525,
+                521528,
+                521499,
+                521527
+            ]
+        },
+        {
+            "category": {
+                "name": "Liberia",
+                "slug": "liberia",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 1116,
+                "flag": "liberia",
+                "alpha2": "LR"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "teamIds": [
+                337854,
+                499926
+            ]
+        },
+        {
+            "category": {
+                "name": "Mauritania",
+                "slug": "mauritania",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 1123,
+                "flag": "mauritania",
+                "alpha2": "MR"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "teamIds": [
+                506655,
+                462643
+            ]
+        },
+        {
+            "category": {
+                "name": "Nigeria",
+                "slug": "nigeria",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 1132,
+                "flag": "nigeria",
+                "alpha2": "NG"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                2060
+            ],
+            "teamIds": [
+                214302,
+                190739
+            ]
+        },
+        {
+            "category": {
+                "name": "Sierra Leone",
+                "slug": "sierra-leone",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 1141,
+                "flag": "sierra-leone",
+                "alpha2": "SL"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                16950
+            ],
+            "teamIds": [
+                381903,
+                496451
+            ]
+        },
+        {
+            "category": {
+                "name": "Tanzania",
+                "slug": "tanzania",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 1151,
+                "flag": "tanzania",
+                "alpha2": "TZ"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                18874
+            ],
+            "teamIds": [
+                381201,
+                380811
+            ]
+        },
+        {
+            "category": {
+                "name": "Europe",
+                "slug": "europe",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 19,
+                "id": 1465,
+                "flag": "europe"
+            },
+            "totalEvents": 1,
+            "totalVideos": 1,
+            "totalEventPlayerStatistics": 1,
+            "uniqueTournamentIds": [
+                26
+            ],
+            "teamIds": [
+                6042,
+                5024
+            ]
+        },
+        {
+            "category": {
+                "name": "World",
+                "slug": "world",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 20,
+                "id": 1468,
+                "flag": "international"
+            },
+            "totalEvents": 39,
+            "totalVideos": 3,
+            "totalEventPlayerStatistics": 1,
+            "uniqueTournamentIds": [
+                1072,
+                22005,
+                851,
+                853,
+                854,
+                855,
+                856,
+                857,
+                858
+            ],
+            "teamIds": [
+                174972,
+                1772,
+                197184,
+                208140,
+                22473,
+                22657,
+                22679,
+                22684,
+                22730,
+                22734,
+                22737,
+                23470,
+                23478,
+                23487,
+                23494,
+                24254,
+                249835,
+                2695,
+                380833,
+                4482,
+                4688,
+                4694,
+                4742,
+                4746,
+                4750,
+                4753,
+                4761,
+                4826,
+                4835,
+                49065,
+                506955,
+                506957,
+                506958,
+                6040,
+                6374,
+                656,
+                665,
+                7139,
+                8035,
+                1159,
+                190638,
+                191564,
+                212486,
+                22546,
+                22646,
+                22677,
+                22680,
+                22732,
+                22745,
+                23495,
+                23496,
+                24260,
+                249834,
+                2741,
+                381792,
+                4690,
+                4692,
+                4716,
+                4734,
+                4745,
+                4747,
+                4777,
+                4789,
+                4818,
+                48862,
+                49049,
+                506959,
+                506960,
+                506961,
+                511268,
+                6049,
+                6052,
+                62558,
+                6355,
+                661,
+                8032,
+                8037,
+                8040
+            ]
+        },
+        {
+            "category": {
+                "name": "North & Central America",
+                "slug": "north-central-america",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 15,
+                "id": 1469,
+                "flag": "north-and-central-america"
+            },
+            "totalEvents": 1,
+            "totalVideos": 1,
+            "totalEventPlayerStatistics": 1,
+            "uniqueTournamentIds": [
+                14100
+            ],
+            "teamIds": [
+                4724,
+                4781
+            ]
+        },
+        {
+            "category": {
+                "name": "South America",
+                "slug": "south-america",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 18,
+                "id": 1470,
+                "flag": "south-america"
+            },
+            "totalEvents": 2,
+            "totalVideos": 2,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                22120
+            ],
+            "teamIds": [
+                44563,
+                48969,
+                215559,
+                48960
+            ]
+        },
+        {
+            "category": {
+                "name": "Saint Kitts and Nevis",
+                "slug": "saint-kitts-and-nevis",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 1493,
+                "flag": "st-kitts-and-nevis",
+                "alpha2": "KN"
+            },
+            "totalEvents": 2,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                16732,
+                16753
+            ],
+            "teamIds": [
+                286545,
+                288737,
+                302735,
+                378216
+            ]
+        },
+        {
+            "category": {
+                "name": "Croatia Amateur",
+                "slug": "croatia-amateur",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 1578,
+                "flag": "croatia",
+                "alpha2": "HR"
+            },
+            "totalEvents": 21,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                21235,
+                21238,
+                22545,
+                22546
+            ],
+            "teamIds": [
+                493832,
+                493834,
+                493837,
+                493839,
+                493842,
+                493843,
+                493845,
+                493860,
+                493864,
+                493866,
+                520821,
+                520823,
+                520824,
+                520825,
+                520830,
+                520831,
+                520833,
+                520834,
+                520835,
+                520839,
+                520844,
+                493833,
+                493835,
+                493836,
+                493838,
+                493840,
+                493841,
+                493858,
+                493859,
+                493861,
+                493865,
+                520822,
+                520826,
+                520827,
+                520828,
+                520829,
+                520832,
+                520836,
+                520837,
+                520838,
+                520840,
+                520843
+            ]
+        },
+        {
+            "category": {
+                "name": "Anguilla",
+                "slug": "anguilla",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 1595,
+                "flag": "anguilla",
+                "alpha2": "AI"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                16721
+            ],
+            "teamIds": [
+                377276,
+                377278
+            ]
+        },
+        {
+            "category": {
+                "name": "USA Amateur",
+                "slug": "usa-amateur",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 1597,
+                "flag": "usa",
+                "alpha2": "US"
+            },
+            "totalEvents": 10,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                22407,
+                22460,
+                23382,
+                23384
+            ],
+            "teamIds": [
+                339310,
+                517715,
+                517732,
+                519151,
+                519152,
+                830448,
+                830474,
+                830477,
+                830496,
+                830497,
+                517713,
+                517725,
+                517729,
+                519147,
+                519148,
+                830435,
+                830470,
+                830502,
+                830648,
+                830654
+            ]
+        },
+        {
+            "category": {
+                "name": "Greece Amateur",
+                "slug": "greece-amateur",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 1625,
+                "flag": "greece",
+                "alpha2": "GR"
+            },
+            "totalEvents": 3,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                18209,
+                18489,
+                19979
+            ],
+            "teamIds": [
+                397433,
+                458978,
+                463996,
+                397441,
+                405958,
+                491660
+            ]
+        },
+        {
+            "category": {
+                "name": "Montenegro Amateur",
+                "slug": "montenegro-amateur",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 1631,
+                "flag": "montenegro",
+                "alpha2": "ME"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                18296
+            ],
+            "teamIds": [
+                55831,
+                447783
+            ]
+        },
+        {
+            "category": {
+                "name": "Morocco Amateur",
+                "slug": "morocco-amateur",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 1641,
+                "flag": "morocco",
+                "alpha2": "MA"
+            },
+            "totalEvents": 2,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                18430
+            ],
+            "teamIds": [
+                118836,
+                404261,
+                118822,
+                373019
+            ]
+        },
+        {
+            "category": {
+                "name": "Chile Amateur",
+                "slug": "chile-amateur",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 1687,
+                "flag": "chile",
+                "alpha2": "CL"
+            },
+            "totalEvents": 2,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                18834
+            ],
+            "teamIds": [
+                3160,
+                512254,
+                3158,
+                332458
+            ]
+        },
+        {
+            "category": {
+                "name": "Brazil Amateur",
+                "slug": "brazil-amateur",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 1694,
+                "flag": "brazil",
+                "alpha2": "BR"
+            },
+            "totalEvents": 4,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                21735
+            ],
+            "teamIds": [
+                334459,
+                403911,
+                492596,
+                492600,
+                398585,
+                492591,
+                492592,
+                502090
+            ]
+        },
+        {
+            "category": {
+                "name": "Argentina Amateur",
+                "slug": "argentina-amateur",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "priority": 0,
+                "id": 1783,
+                "flag": "argentina",
+                "alpha2": "AR"
+            },
+            "totalEvents": 1,
+            "totalVideos": 0,
+            "totalEventPlayerStatistics": 0,
+            "uniqueTournamentIds": [
+                22598
+            ],
+            "teamIds": [
+                521851,
+                521861
+            ]
+        }
+    ]
+}
